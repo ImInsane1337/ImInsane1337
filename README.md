@@ -1,4 +1,4 @@
-<h1 align="center">Hello, i am ImInsane</h1>
+<h1 align="center">Hello, i am Insane (ImInsane)</h1>
 <h3 align="center">low-end Python and C# developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iminsane1337&label=Profile%20views&color=0e75b6&style=flat" alt="iminsane1337" /> </p>
